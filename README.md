@@ -4,7 +4,7 @@
   soyadının tamamı büyük harfle yazacak şekilde ad ayrı soyad ayrı şekilde alt alta ekrana yazdırın.*
 
 **Practice02**
-- *Kullanıcıya*
+- *Kullanıcıya*<br>
   *1) Günde kaç bardak çay içtiğini,
   2) Her bardak için kaç şeker kullandığını sorup,
   kullanıcının yıllık ve kırk yıllık şeker tüketimini kg bazında konsola yazdıran bir program yazın.
