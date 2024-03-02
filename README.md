@@ -40,6 +40,4 @@
   
   *Kullanıcıdan cevapları alırken büyük-küçük harf duyarlılığını görmezden gelin.
   Hatalı yazım uyarısından sonra program devam etsin başa dönmesin.*
-
-  <span style="color:blue">some *This is Blue italic.* text</span>
- 
+  
