@@ -19,6 +19,7 @@
   - *Türk kahvesi*
   - *Filtre Kahve*
   - *Espresso*
+  
   *Eğer kahve Türk kahvesi ise, konsola = Türk kahvesi hazırlanıyor... yazsın.
   Eğer filtre kahve ise,   konsola = Filtre kahve hazırlanıyor...  yazsın.
   Eğer Espresso ise, konsola =  Espresso hazırlanıyor...   yazsın.  
