@@ -13,8 +13,8 @@
 
 **Practice03**
 - *Basit bir Kahve makinesi oluşturun. 3 çeşit kahvemiz olsun.
-  *Sistem şu soruyu sorsun: "Hangi Kahveyi istersiniz?"
-  Bu soru ile birlikte kullanıcı kahve bilgilerini görsün.
+  Sistem şu soruyu sorsun:  "Hangi Kahveyi istersiniz?"
+  Bu soru ile birlikte kullanıcı kahve bilgilerini görsün.*
   
   *Hangi Kahveyi İstersiniz?*
   - *Türk kahvesi*
