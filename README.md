@@ -22,9 +22,9 @@
   - *Espresso*
   
   *Eğer kahve Türk kahvesi ise, konsola = Türk kahvesi hazırlanıyor... yazsın.<br>
-  Eğer filtre kahve ise,   konsola = Filtre kahve hazırlanıyor...  yazsın.<br>
-  Eğer Espresso ise, konsola =  Espresso hazırlanıyor...   yazsın.<br>
-  Eğer yanlış harf girerseniz, konsola = "Hatalı yazım, tekrar istediğiniz kahveyi yazınız" yazsın.<br>
+  Eğer filtre kahve ise,   konsola -> Filtre kahve hazırlanıyor...  yazsın.<br>
+  Eğer Espresso ise, konsola ->  Espresso hazırlanıyor...   yazsın.<br>
+  Eğer yanlış harf girerseniz, konsola -> "Hatalı yazım, tekrar istediğiniz kahveyi yazınız" yazsın.<br>
   (Hatalı yazımdan sonra kod oloğan akışında devam etsin geriye döndürmesin.)*
 
   *Program şu soruyu sorsun: "Süt eklemek ister misin? (Evet veya Hayır olarak cevabı al)<br>
