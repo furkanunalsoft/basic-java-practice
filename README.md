@@ -12,7 +12,7 @@
   (Bir adet küp şeker = 2.77 gr) (1000gr = 1kg)*
 
 **Practice03**
-- *Basit bir Kahve makinesi oluşturun. 3 çeşit kahvemiz olsun.<br>
+- *Basit bir kahve makinesi oluşturun. 3 çeşit kahvemiz olsun.<br>
   Sistem şu soruyu sorsun:  "Hangi Kahveyi istersiniz?"<br>
   Bu soru ile birlikte kullanıcı kahve bilgilerini görsün.*<br>
   
