@@ -1,13 +1,13 @@
 **Practice01**
 - *Kullanıcıdan tek seferde alacağınız iki kelimelik ad ve soyadı iki ayrı kelimeye ayırınız,<br>
-  adının ilk harfi büyük diğerleri küçük,<br>
+  adının ilk harfi büyük diğerlerini küçük,<br>
   soyadının tamamı büyük harfle yazacak şekilde ad ayrı soyad ayrı şekilde alt alta ekrana yazdırın.*<br>
 
 **Practice02**
 - *Kullanıcıya*<br>
   *1) Günde kaç bardak çay içtiğini,<br>
   2) Her bardak için kaç şeker kullandığını sorup,<br>
-  Kullanıcının yıllık ve kırk yıllık şeker tüketimini kg bazında konsola yazdıran bir program yazın.<br>
+  kullanıcının yıllık ve kırk yıllık şeker tüketimini kg bazında konsola yazdıran bir program yazın.<br>
   Kullanıcı eğer şeker kullanmadıysa "Aferin, böyle devam et :)" çıktısını görsün.<br>
   (Bir adet küp şeker = 2.77 gr) (1000gr = 1kg)*
 
@@ -40,4 +40,20 @@
   
   *Kullanıcıdan cevapları alırken büyük-küçük harf duyarlılığını görmezden gelin.<br>
   Hatalı yazım uyarısından sonra program devam etsin başa dönmesin.*
+
+**Practice04**
+- Bilgisayar ile taş-kağıt-makas oynayabileceğiniz bir program yazınız.<br>
+  Kullanıcı seçimini; taş için 1, kağıt için 2, makas için 3 yazarak belirtsin.<br>
+  Kullanıcı ve bilgisayar seçimine göre o elin kazananı belli olsun.<br>
+  5 kez oynadıktan sonra aşagıdaki kurallara göre en fazla kazanan, oyunun galibi olur.
+
+  - Kâğıt taşı sarar.
+  - Taş makası kırar.
+  - Makas kağıdı keser.
+ 
+  Oyunun sonunda,<br>
+  kullanıcı kazanırsa "Oyunu kazandınız!",<br>
+  bilgisayar oyunu kazanırsa "Maalasef kaybettiniz.",<br>
+  berabera kalınırsa konsolda "Oyun berabere!" gözüksün.
+
   
