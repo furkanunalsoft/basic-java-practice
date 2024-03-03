@@ -47,7 +47,7 @@
   Kullanıcı ve bilgisayar seçimine göre o elin kazananı belli olsun.<br>
   5 kez oynadıktan sonra aşagıdaki kurallara göre en fazla kazanan, oyunun galibi olur*.
 
-  - *Kâğıt taşı sarar.
+  - *Kâğıt taşı sarar*.
   - *Taş makası kırar*.
   - *Makas kağıdı keser*.
  
