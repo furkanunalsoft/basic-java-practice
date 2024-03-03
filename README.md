@@ -1,7 +1,7 @@
 **Practice01**
-- *Kullanıcıdan tek seferde alacağınız iki kelimelik ad ve soyadı iki ayrı kelimeye ayırınız,<br>
-  adının ilk harfi büyük diğerlerini küçük,<br>
-  soyadının tamamı büyük harfle yazacak şekilde ad ayrı soyad ayrı şekilde alt alta ekrana yazdırın.*<br>
+- *Kullanıcıdan tek seferde alacağınız iki kelimelik ad ve soyadı iki ayrı kelimeye ayırınız*,<br>
+  *adının ilk harfi büyük diğerlerini küçük*,<br>
+  *soyadının tamamı büyük harfle yazacak şekilde ad ayrı soyad ayrı şekilde alt alta ekrana yazdırın*.<br>
 
 **Practice02**
 - *Kullanıcıya*<br>
@@ -12,9 +12,9 @@
   (Bir adet küp şeker = 2.77 gr) (1000gr = 1kg)*
 
 **Practice03**
-- *Basit bir kahve makinesi oluşturun. 3 çeşit kahvemiz olsun.<br>
-  Sistem şu soruyu sorsun:  "Hangi Kahveyi istersiniz?"<br>
-  Bu soru ile birlikte kullanıcı kahve bilgilerini görsün.*<br>
+- *Basit bir kahve makinesi oluşturun. 3 çeşit kahvemiz olsun*.<br>
+  *Sistem şu soruyu sorsun:  "Hangi Kahveyi istersiniz?*"<br>
+  *Bu soru ile birlikte kullanıcı kahve bilgilerini görsün*.<br>
   
   *Hangi Kahveyi İstersiniz?*
   - *Türk kahvesi*
@@ -36,24 +36,24 @@
   Eğer kullanıcı şeker istiyorsa "Kaç şeker olsun?" sorusunu sorsun.<br>
   Konsola şunu yazdırınız örnek: 5 şeker ekleniyor.<br>
   Eğer şeker istemiyorsa "Şeker eklenmiyor" yazdırın.<br>
-  En sonda "Kahveniz hazır. Afiyet olsun!" yazdır.*<br>
+  En sonda "Kahveniz hazır. Afiyet olsun!" yazdır*.<br>
   
   *Kullanıcıdan cevapları alırken büyük-küçük harf duyarlılığını görmezden gelin.<br>
   Hatalı yazım uyarısından sonra program devam etsin başa dönmesin.*
 
 **Practice04**
-- Bilgisayar ile taş-kağıt-makas oynayabileceğiniz bir program yazınız.<br>
+- *Bilgisayar ile taş-kağıt-makas oynayabileceğiniz bir program yazınız.<br>
   Kullanıcı seçimini; taş için 1, kağıt için 2, makas için 3 yazarak belirtsin.<br>
   Kullanıcı ve bilgisayar seçimine göre o elin kazananı belli olsun.<br>
-  5 kez oynadıktan sonra aşagıdaki kurallara göre en fazla kazanan, oyunun galibi olur.
+  5 kez oynadıktan sonra aşagıdaki kurallara göre en fazla kazanan, oyunun galibi olur*.
 
-  - Kâğıt taşı sarar.
-  - Taş makası kırar.
-  - Makas kağıdı keser.
+  - *Kâğıt taşı sarar.
+  - *Taş makası kırar*.
+  - *Makas kağıdı keser*.
  
-  Oyunun sonunda,<br>
+  *Oyunun sonunda,<br>
   kullanıcı kazanırsa "Oyunu kazandınız!",<br>
   bilgisayar oyunu kazanırsa "Maalasef kaybettiniz.",<br>
-  berabera kalınırsa konsolda "Oyun berabere!" gözüksün.
+  berabera kalınırsa konsolda "Oyun berabere!" gözüksün*.
 
   
