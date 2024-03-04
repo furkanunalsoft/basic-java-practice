@@ -3,6 +3,8 @@
   *adının ilk harfi büyük diğerlerini küçük*,<br>
   *soyadının tamamı büyük harfle yazacak şekilde ad ayrı soyad ayrı şekilde alt alta ekrana yazdırın*.<br>
 
+  ---
+
 **Practice02**
 - *Kullanıcıya*<br>
   *1) Günde kaç bardak çay içtiğini,<br>
@@ -10,6 +12,8 @@
   kullanıcının yıllık ve kırk yıllık şeker tüketimini kg bazında konsola yazdıran bir program yazın.<br>
   Kullanıcı eğer şeker kullanmadıysa "Aferin, böyle devam et :)" çıktısını görsün.<br>
   (Bir adet küp şeker = 2.77 gr) (1000gr = 1kg)*
+
+  ---
 
 **Practice03**
 - *Basit bir kahve makinesi oluşturun. 3 çeşit kahvemiz olsun*.<br>
@@ -40,6 +44,8 @@
   
   *Kullanıcıdan cevapları alırken büyük-küçük harf duyarlılığını görmezden gelin.<br>
   Hatalı yazım uyarısından sonra program devam etsin başa dönmesin.*
+
+  ---
 
 **Practice04**
 - *Bilgisayar ile taş-kağıt-makas oynayabileceğiniz bir program yazınız.<br>
